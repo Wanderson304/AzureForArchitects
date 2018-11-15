@@ -6,8 +6,9 @@
 The purpose of this repo is to serve as a curated list of resources on Microsoft Azure for Architects
 
 ## Azure Governance
-Azure Management:   [https://docs.microsoft.com/en-us/azure/governance/](https://docs.microsoft.com/en-us/azure/governance/)
-Management in Azure: [https://docs.microsoft.com/en-us/azure/governance/azure-management](https://docs.microsoft.com/en-us/azure/governance/azure-management)
+| --- | --- |
+|Azure Management|[https://docs.microsoft.com/en-us/azure/governance/](https://docs.microsoft.com/en-us/azure/governance/)|
+|Management in Azure|[https://docs.microsoft.com/en-us/azure/governance/azure-management](https://docs.microsoft.com/en-us/azure/governance/azure-management)|
 
 ## Enterprise Cloud Adoption
 Enterprise Cloud Adoption: Introduction	https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview

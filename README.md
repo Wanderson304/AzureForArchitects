@@ -70,7 +70,7 @@ The purpose of this repo is to serve as a curated list of resources on Microsoft
 |Run a Linux VM on Azure|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/linux-vm|
 |Run a Windows VM on Azure|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/windows-vm|
 |DMZ between Azure and your on-premises datacenter|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-hybrid|
-|DMZ between Azure and the Internet	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz|
+|DMZ between Azure and the Internet|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz|
 |Deploy highly available network virtual appliances|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha|
 |Basic web application|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/basic-web-app|
 |Improve scalability in a web application|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app|

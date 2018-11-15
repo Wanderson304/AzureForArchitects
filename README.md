@@ -14,13 +14,13 @@ The purpose of this repo is to serve as a curated list of resources on Microsoft
 ## Enterprise Cloud Adoption
 | Topic | Reference |
 | --- | --- |
-|Enterprise Cloud Adoption: Introduction|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview|
-|Enterprise Cloud Adoption: Getting started|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/overview|
-|Enterprise Cloud Adoption: How does Azure work?|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/what-is-azure|
-|Enterprise Cloud Adoption: What is cloud resource governance?|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/what-is-governance|
-|Enterprise Cloud Adoption: Resource access management in Azure|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access|
-|Enterprise Cloud Adoption: Governance design for a simple workload|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/governance-single-team|
-|Enterprise Cloud Adoption: Governance design for multiple teams|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/governance-multiple-teams|
+|Introduction|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/overview|
+|Getting started|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/overview|
+|How does Azure work?|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/what-is-azure|
+|What is cloud resource governance?|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/what-is-governance|
+|Resource access management in Azure|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/getting-started/azure-resource-access|
+|Governance design for a simple workload|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/governance-single-team|
+|Governance design for multiple teams|https://docs.microsoft.com/en-us/azure/architecture/cloud-adoption/governance/governance-multiple-teams|
 
 ## Architecture Best Practices
 | Topic | Reference |
@@ -71,7 +71,7 @@ The purpose of this repo is to serve as a curated list of resources on Microsoft
 |Run a Windows VM on Azure|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/n-tier/windows-vm|
 |DMZ between Azure and your on-premises datacenter|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-hybrid|
 |DMZ between Azure and the Internet	https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/secure-vnet-dmz|
-||Deploy highly available network virtual appliances|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha|
+|Deploy highly available network virtual appliances|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/dmz/nva-ha|
 |Basic web application|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/basic-web-app|
 |Improve scalability in a web application|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/scalable-web-app|
 |Run a web application in multiple regions|https://docs.microsoft.com/en-us/azure/architecture/reference-architectures/app-service-web-app/multi-region|
